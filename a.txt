@@ -1,2 +1,2 @@
 'sth'
-'sth else'
+'sth'
